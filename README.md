@@ -7,5 +7,6 @@ Usage:
   > GEMINI_API_KEY = '<API_KEY>'
 - Run chatbot.py
   > pip3 install -r requirement.txt
+  
   > python3 chatbot.py
 - Modify chatbot.py as per need. 
