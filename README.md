@@ -1,4 +1,4 @@
-# openai-boilerplate
+# geminiai-boilerplate
 This is boilerplate code to use Gemini AI to get answers from a webpage.
 
 Usage:
